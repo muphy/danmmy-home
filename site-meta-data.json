@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Danmmy",
+  "siteUrl": "https://www.danmmy.com/",
+  "description": "Danmmy is a bot for cryptocurrencies traders.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "안녕하세요. cryptocurrencies 투자자들의 도우미,단미봇입니다.",
+    "description": "단미 봇은 한 시도 쉬지 않고 실시간으로 원화 마켓의 모든 거래 이력을 관찰합니다. \n\n관찰 후 원하는 거래 신호가 감지되면 여러분에게 알려드립니다. \n\n현재는 분 당 급상승하는 코인 신호만을 감지하고 있습니다.\n\n\n* 사용 방법\n\n  * 단미 봇을 사용하는 방법은 카카오톡을 사용하는 것만큼 쉽습니다. 텔레그램을 모바일에 설치하거나 데스크톱에 설치한 후 [채널](https://t.me/joinchat/GMJ_yZMmSJX4QlU7)에 들어가시면 됩니다. \n  * 채널에 들어간 후 실시간으로 전달되는 단미 봇의 보고서를 읽으시면 됩니다\n*  주의 사항\n\n  * 단미 봇은 어떠한 코인도 추천하지 않습니다. 단미 봇의 보고서를 참고하여 진행한 투자 행위는 오로지 사용자의 책임입니다."
   }
 }
